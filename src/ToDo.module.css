@@ -1,0 +1,15 @@
+body {
+    font-family: monospace, sans-serif;
+    font-weight: 400;
+}
+
+.btn {
+    border:none;
+    background-color: inherit;
+    cursor: pointer;
+}
+
+.checked {
+    text-decoration: line-through;
+
+}

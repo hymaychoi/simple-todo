@@ -1,0 +1,7 @@
+body {
+    font-family: monospace, sans-serif;
+}
+
+form > * {
+    font-family: monospace, sans-serif;
+}
