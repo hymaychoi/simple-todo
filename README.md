@@ -1,7 +1,7 @@
 # Simple to do app
 User can add todo, mark as done and delete todo.
 
-## Tech stacks
+## Tech Stacks
 ReactJS (libs: nanoId, PropTypes)
 
 ## Live Demo
